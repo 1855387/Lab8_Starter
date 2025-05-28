@@ -1,7 +1,8 @@
 # Lab8-Starter
 - Charlie Zhu
 - [Link to github pages site](https://1855387.github.io/Lab8_Starter/)
-<img width="1188" alt="pwa" src="https://github.com/user-attachments/assets/7193c91f-e41b-4c3f-8a8d-9a127061c600" />
+
+<img width="1188" alt="pwa" src="https://github.com/user-attachments/assets/a06df0ff-2f3d-49c8-b292-1d1530fcec56" />
 
   
 ## How are graceful degradation and service workers related? 
